@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/77a0bd52-2060-47c7-be57-22f9762d6c86)# Hi there, I'm Mario Richie Lim! 👋
+### Hi there, I'm Mario Richie Lim! 👋
 
 ## About Me
 I’m a third-year Informatics student at Multimedia Nusantara University, passionate about problem-solving, web development, and UI/UX design. My journey in informatics has been filled with exciting projects, including:
