@@ -5,7 +5,6 @@ A 3rd year Informatics student at Multimedia Nusantara University, passionate ab
 
 ## Projects
 - Currently tackling new challenges with a **scheduling system** for my former school.
-- Building a **to-do list app** to for parents and kids.
 - Built an **e-learning prototype platform** for a local school.
 - Designed a **user-friendly interface** for a dance app using Figma.
 - Built a **frontend-only e-commerce prototype** for sneakers with APIs.
