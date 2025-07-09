@@ -3,6 +3,8 @@
 ## About Me
 Currently an Informatics student at Multimedia Nusantara University, passionate about problem-solving, web development, and UI/UX design. 
 
+Check out my Portfolio Website: [mario-richie-lim.netlify.app](https://mario-richie-lim.netlify.app/)
+
 ## Projects
 - Interning at PT Nusantara Compnet Integrator as an **Internal Application Developer**.
 - Currently tackling new challenges with a **scheduling system** for my former school.
