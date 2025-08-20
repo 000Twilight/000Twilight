@@ -6,11 +6,11 @@ Currently an Informatics student at Multimedia Nusantara University, passionate 
 Check out my Portfolio Website: [mario-richie-lim.netlify.app](https://mario-richie-lim.netlify.app/)
 
 ## Projects
-- Interning at PT Nusantara Compnet Integrator as an **Internal Application Developer**.
+- Developing an event website for a client using **express.js** and **react**.
+- Did an Internship at PT Nusantara Compnet Integrator as an **Internal Application Developer**.
 - Currently tackling new challenges with a **scheduling system** for my former school.
 - Built an **e-learning prototype platform** for a local school.
 - Designed a **user-friendly interface** for a dance app using Figma.
-- Built a **frontend-only e-commerce prototype** for sneakers with APIs.
 
 ## Looking for Opportunities
 I am actively seeking an internship where I can apply my skills and continue to grow in a real-world environment. 
@@ -25,4 +25,5 @@ Some of the skills I’ve developed during my studies include:
 - Playing **badminton**
 - **Gaming**
 - Solving Problems
+- Learning Chess at the moment because it's fun
 - Exploring topics in **business** and **communication**
